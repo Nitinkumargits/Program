@@ -1,5 +1,7 @@
 {
-    "files.associations": {
-        "cmath": "cpp"
-    }
+  "files.associations": {
+    "*.java": "java",
+    "cmath": "cpp",
+    "random": "cpp"
+  }
 }
