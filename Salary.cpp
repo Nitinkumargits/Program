@@ -18,6 +18,6 @@ int main(){
 
     Net_Salary=basic_Salary+ (basic_Salary*(percentage_Allowances/100))-(basic_Salary*(percentage_Deduction/100));
 
-    cout<<"your Net-Salary is:= "<<Net_Salary<<endl;
+    cout<<"your Net-Salary is:= g"<<Net_Salary<<endl;
     return 0;
 }
