@@ -22,5 +22,6 @@ int main(){
         cout<<"Not eligible for the offer"<<endl;
     }
     return 0;
+    
 
 }
