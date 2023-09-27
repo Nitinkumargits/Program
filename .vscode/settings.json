@@ -3,6 +3,7 @@
     "*.java": "java",
     "cmath": "cpp",
     "random": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
